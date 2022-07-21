@@ -26,4 +26,5 @@ Projeto
 -  Herança - Superclasse e Subclasse
 -  Herança - Atributos e Métodos
 - Encapsulamento - Atributos e Métodos Privados
+-  Getters and Setters
 
