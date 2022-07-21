@@ -5,11 +5,14 @@
 
 ![image](https://user-images.githubusercontent.com/72118415/180113040-86651a96-b5c2-48eb-b775-5771f6e89bd1.png)
 
+![image](https://user-images.githubusercontent.com/72118415/180113796-42378fdf-d375-4c82-ba76-e9ab7c5398f4.png)
 
 
 
 ***********************************************************************************************************
 Projeto
+
+- Introdução a POO
 
 - Atribuição de um Objeto em JavaScript
 - Atributo Estático de uma Classe em JavaScript
