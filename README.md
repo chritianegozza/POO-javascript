@@ -7,6 +7,9 @@
 
 ![image](https://user-images.githubusercontent.com/72118415/180113796-42378fdf-d375-4c82-ba76-e9ab7c5398f4.png)
 
+![image](https://user-images.githubusercontent.com/72118415/180115199-21c50127-08e6-49c0-9387-910385b84161.png)
+
+![image](https://user-images.githubusercontent.com/72118415/180116268-fb9d3633-ea71-4f52-ae4c-616b9181ee01.png)
 
 
 ***********************************************************************************************************
@@ -16,3 +19,4 @@ Projeto
 
 - Atribuição de um Objeto em JavaScript
 - Atributo Estático de uma Classe em JavaScript
+- Declarado Método 
