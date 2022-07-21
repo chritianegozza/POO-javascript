@@ -21,5 +21,5 @@ Projeto
 
 - Atribuição de um Objeto em JavaScript
 - Atributo Estático de uma Classe em JavaScript
-- Declarado Método 
-- 
+- Declarando Métodos de uma Classe em JavaScript
+- Método Estático de uma Classe em JavaScript
