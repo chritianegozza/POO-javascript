@@ -25,5 +25,5 @@ Projeto
 - Método Estático de uma Classe em JavaScript
 -  Herança - Superclasse e Subclasse
 -  Herança - Atributos e Métodos
--
+- Encapsulamento - Atributos e Métodos Privados
 
