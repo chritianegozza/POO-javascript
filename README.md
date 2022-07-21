@@ -23,3 +23,4 @@ Projeto
 - Atributo Estático de uma Classe em JavaScript
 - Declarando Métodos de uma Classe em JavaScript
 - Método Estático de uma Classe em JavaScript
+-  Herança - Superclasse e Subclasse
