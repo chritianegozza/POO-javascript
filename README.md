@@ -15,7 +15,9 @@
 
 
 ***********************************************************************************************************
-Projeto
+Projeto  
+
+Essas foram as aulas vista no curso da StartSe
 
 - Introdução a POO
 - 
